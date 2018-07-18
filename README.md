@@ -5,13 +5,13 @@
 This is final project for advanced-programing course under supervisory of Dr.Jahanshahi. The idea is syncing 2 directory files simply .
 
 
-Contributers:
+**Contributers:**
 
  Shakiba Tasharrofi , Dorsa Kabiri
  
  
  
- content:
+**content:**
  
  
 -cpp folder contains Qt.creator files (for part_1 of project)
