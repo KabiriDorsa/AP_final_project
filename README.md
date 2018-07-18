@@ -1,8 +1,8 @@
 # AP_final_project
 
-**file dyncing project**
+**file Syncing project**
 
-file syncing project 
+This is a final project for advanced-programing course under supervisory of Dr.Jahanshahi. The idea is syncing 2 directory files simply .
 
 -cpp folder contains Qt.creator files (for part_1 of project)
 -python folder contains main codes of program( program is available in English and persian )
